@@ -1,0 +1,60 @@
+#numeros{
+	margin: 0;
+	list-style-type: none;
+}
+
+#numeros li{
+	display: inline;
+	background-color: #0b8043;
+	border-radius: 50%;
+	padding: 5px;
+	color: #FFF;
+	margin-right: 5px; 	
+}
+
+#numerosSugeridos{
+	margin: 0;
+	list-style-type: none;
+	 overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    padding: 4px;
+}
+
+#numerosSugeridos li{
+	display: inline;
+	background-color: #0b8043;
+	border-radius: 50%;
+	padding: 5px;
+	color: #FFF;
+	margin-right: 5px; 	
+}
+
+#data{
+	    font-weight: bold;
+}
+
+#concurso{
+	    font-weight: bold;
+}
+
+.table{
+	font-weight: bold;
+}
+
+#tituloPrincipal{
+	float:left;
+}
+
+#loading{
+	width:90px;
+}
+
+.both{
+	clear: both;
+}
+#sugestao{
+	font-weight: bold;
+	font-family: sans-serif;
+	
+}
